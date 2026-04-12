@@ -1,4 +1,4 @@
-method,hard_feasible_rate,avg_tessitura,avg_melody_preservation,avg_abs_shift,avg_notes_dropped,avg_input_max_polyphony,avg_output_max_polyphony,accepted_rate,corrected_rate,rejected_rate,unchanged_rate,n
+method,hard_feasible_rate,avg_tessitura_violations,avg_melody_preservation,avg_abs_shift,avg_notes_dropped,avg_input_max_polyphony,avg_output_max_polyphony,accepted_rate,corrected_rate,rejected_rate,unchanged_rate,n
 patch_only,0.003208113422332609,19.32055262340888,1.0,0.0,0.0,4.537721204594846,4.537721204594846,0.0,0.0,0.0,1.0,19326
 simple_pitch,0.12123564110524682,16.624288523232952,0.5597640484321639,18.12201885745979,28.372089413225705,4.537721204594846,2.4057228603953225,0.013194660043464762,0.5465693883886992,0.44023595156783607,0.0,19326
 constraint_aware,0.12123564110524682,18.835661802752767,0.12123564110524682,11.728553137003841,37.16449342854186,4.537721204594846,0.47868156887095104,0.003208113422332609,0.1180275276829142,0.8787643588947531,0.0,19326
